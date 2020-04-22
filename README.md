@@ -1,4 +1,4 @@
-# yn-portal-web
+# A spa template for Retech
 
 ## Project setup
 ```
